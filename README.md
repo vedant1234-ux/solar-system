@@ -32,9 +32,21 @@ Explore planets orbiting the Sun with realistic textures, lighting, and interact
 
 ## 📁 Project Structure
 
-final_executable_code/
-├── index.html # Main HTML file
-├── style.css # Stylesheet
-├── script.js # Three.js solar system logic
-└── assets/ # Textures, images (e.g., earth.jpg, sun.jpg)
+f## 📁 Project Structure
 
+solar-system/
+├── index.html         # Main HTML file
+├── style.css          # Stylesheet
+├── script.js          # Three.js solar system logic
+├── textures/          # Textures and images
+│   ├── earth.jpg
+│   ├── sun.jpg
+│   ├── mercury.jpg
+│   ├── venus.jpg
+│   ├── mars.jpg
+│   ├── jupiter.jpg
+│   ├── saturn.jpg
+│   ├── uranus.jpg
+│   ├── neptune.jpg
+│   └── galaxy.jpg
+└── README.md          # Project documentation
